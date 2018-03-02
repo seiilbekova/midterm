@@ -1,0 +1,14 @@
+.Menu {
+  display: flex;
+  justify-content: space-around;
+  margin-right:100px;
+  margin-left: 100px;
+}
+
+.About-active{
+  background-color: white;
+}
+
+.About-notactive{
+  background-color: blue;
+}
